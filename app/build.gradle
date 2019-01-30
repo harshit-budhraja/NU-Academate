@@ -71,10 +71,6 @@ dependencies {
 
     // Image loading library
     implementation 'com.squareup.picasso:picasso:2.71828'
-
-    // For parsing an excel file
-    implementation "org.apache.poi:poi:3.17"
-    implementation "org.apache.poi:poi-ooxml:3.17"
 }
 
 apply plugin: 'com.google.gms.google-services'

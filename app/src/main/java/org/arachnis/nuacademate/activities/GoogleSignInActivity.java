@@ -1,7 +1,8 @@
-package org.arachnis.nuacademate;
+package org.arachnis.nuacademate.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import org.arachnis.nuacademate.R;
 
 public class GoogleSignInActivity extends AppCompatActivity {
 
